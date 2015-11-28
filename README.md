@@ -1,4 +1,4 @@
-# 4004-OracleObjectRelationalJDBC
+# 4003-OracleObjectRelationalJDBC
 A relatively simple example of oracle's object-relational features.
 
 Remember to bring your own ojdbc jar. 
